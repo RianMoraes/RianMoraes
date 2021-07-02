@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RianMoraes
+- 👀 I'm interested in frontend, always looking to improve my skills and soft skills and always looking to learn.
+- 🌱 I’m currently learning ReactJs, improvig js and css and a little of back-end.
+- 📫 Linkedin: https://www.linkedin.com/in/rian-moraes-728ba41b6/
