@@ -12,4 +12,4 @@ DOM, eventos e lógica de programação
 Regex para validação de dados
 
 Entre em contato
-- 📫 Linkedin: https://www.linkedin.com/in/rian-moraes-728ba41b6/
+- 📫 Linkedin: https://www.linkedin.com/in/rian-moraes2702/
